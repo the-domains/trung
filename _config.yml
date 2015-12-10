@@ -1,7 +1,7 @@
 name: Trung
 favicon: null
-layout_spectrum: 0.8725893620867282
-typography_spectrum: 0.8321050747763366
+layout_spectrum: 0.25661
+typography_spectrum: 0.25541
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.06562356138601899
-  lightness: 0.17457883153110743
-  saturation: 0.04199935821816325
-  rhythmicContrast: 0.37192276888526976
+    - '#fffef9'
+    - '#251d24'
+    - '#a86b71'
+    - '#d69b9b'
+    - '#7e0421'
+  brandStrength: 0.75
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
